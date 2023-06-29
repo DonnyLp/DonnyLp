@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DonnyLp
-- 👀 I’m interested in software development and gaming.
-- 🌱 I’m currently learning html and css.
-- 💞️ I’m looking to collaborate on any open source projects that interests me.
+- 👀 I’m interested in software development, finance, and fitness.
+- 🌱 I’m currently learning front-end development and back-end frameworks.
+- 💞️ I’m looking to collaborate on any open-source projects that align with my interest.
 - 📫 How to reach me: dondariolapointe8@gmail.com
 
 <!---
