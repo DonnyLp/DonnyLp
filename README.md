@@ -30,7 +30,7 @@ I'd love to learn how to play some of my favorite tracks from the series "Death 
 
 ## 📚 Favorite Quote
 
-"Average is the enemy success is your responsibility" - BK
+"Luck is where preparation meets opportunity."
 
 <!-- Add any other sections or customizations you'd like -->
 
