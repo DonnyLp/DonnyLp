@@ -2,18 +2,18 @@
 
 # Hello, World! 👋
 
-Welcome to my GitHub profile! I'm Dondario Lapointe, a problem solver with a love for finance, fitness, and self-improvement. Here you'll find a collection of my projects, contributions, and explorations in the world of Fitness and Finance.
+Welcome to my GitHub profile! I'm Dondario Lapointe, a problem solver with love for finance, fitness, and self-improvement. Here you'll find a collection of my projects, contributions, and explorations in Fitness and Finance.
 
 
 ## 🌱 Current Focus
 
-I'm focusing on expanding my skills and knowledge in full-stack development and AI.
+I'm focusing on expanding my skills and knowledge in back-end development and data engineering.
 
 ## 🚀 Goals
 
 - Contribute to open-source projects.
 - Build a strong portfolio of impactful projects.
-- Learn new technologies and stay updated with the latest AI, Finance, and Fitness trends.
+- Learn new technology stacks.
 
 ## 📫 Let's Connect
 
@@ -26,7 +26,7 @@ Feel free to reach out, and let's explore exciting opportunities together!
 
 ## 💬 Fun Fact
 
-I'd love to learn how to play some of my favorite tracks from the series "Death Note"   on a guitar and/or bass.
+I'd love to learn how to play the bass guitar and play some of my favorite tracks from the anime series "Death Note".
 
 ## 📚 Favorite Quote
 
