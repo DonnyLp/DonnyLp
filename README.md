@@ -1,6 +1,6 @@
 <!-- Add your awesome banner or logo here -->
 
-👋
+### Hi there! 👋
 
 Welcome to my GitHub profile! I'm Dondario Lapointe, a problem solver with love for finance, fitness, and self-improvement. Here you'll find a collection of my projects, contributions, and explorations in Fitness and Finance.
 
