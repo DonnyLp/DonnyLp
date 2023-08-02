@@ -2,12 +2,11 @@
 
 ### Hi there! 👋
 
-Welcome to my GitHub profile! I'm Dondario Lapointe, a computer science student with a passion for problem-solving. Here you'll find a collection of my projects, contributions, and explorations in Fitness and Finance.
-
+Welcome to my GitHub profile! My name is Dondario Lapointe I'm a Computer Science student with a passion for problem-solving. Here you'll find a collection of projects and collaborations. 
 
 ## 🌱 Current Focus
 
-I'm focusing on expanding my skills and knowledge in back-end development and data engineering.
+I'm focusing on expanding my skills and knowledge in full-stack development, system design, big data, and IoT.
 
 ## 🚀 Goals
 
