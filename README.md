@@ -18,7 +18,7 @@ Taking steps to adapt the "quantified self".
 
  You can reach me via:
 - Email: dondariolapointe8@gmail.com
-- LinkedIn: [https://www.linkedin.com/in/dondario-lapointe/]
+- LinkedIn: https://www.linkedin.com/in/dondario-lapointe/
 
 Feel free to reach out, and let's explore exciting opportunities together!
 
