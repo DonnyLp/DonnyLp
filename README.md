@@ -1,6 +1,7 @@
 <!-- Add your awesome banner or logo here -->
 
-CS & Math student looking for ways to leverage modern tech to improve quality of life and solve everyday problems.
+## About Me
+CS & Math student looking to leverage modern tech, to improve quality of life and solve everyday problems.
 
 ## 🌱 Current Focus
 
