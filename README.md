@@ -1,8 +1,6 @@
 <!-- Add your awesome banner or logo here -->
 
-### Yeow! 👋
-
-I'm a CS & Math student with a desire to solve problems and optimize solutions.
+CS & Math student looking for ways to leverage modern tech to improve quality of life and solve everyday problems.
 
 ## 🌱 Current Focus
 
