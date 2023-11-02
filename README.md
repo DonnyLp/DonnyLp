@@ -1,8 +1,4 @@
 <!-- Add your awesome banner or logo here -->
-
-## About Me
-CS & Math student looking to leverage modern tech, to improve quality of life and solve everyday problems.
-
 ## 🌱 Current Focus
 
 Taking steps to adapt the "quantified self".
